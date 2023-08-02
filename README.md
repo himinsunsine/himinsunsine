@@ -1,4 +1,4 @@
-### Hi there 👋
+### himinsunsine
 
 ### 🌱 Profile
 > 🎓 Sangmyung University, Department of Intelligent Engineering Informatics for Human(Seoul) (2020.03 ~ )
@@ -11,5 +11,5 @@
 ### 😄 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himinsunsine&show_icons=true&theme=radical)
 
-### Baekjoon
+### 👋 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=himinsunsine)](https://solved.ac/himinsunsine/)
